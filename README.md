@@ -9,3 +9,7 @@ Docker tends to leave quite a bit of resedue in the hard disk. I started noticin
 You will see container IDs when the script is cleaning up. 
 
 If the commands do not find anything to clean, they will display an error. Essentially, this error will indicate that the command needs more parameters. Don't worry, this means your disk doesn't need cleaning.
+
+## License
+Copyright (c) 2016 Tyrell Perera <tyrell.perera@gmail.com>
+Licensed under the MIT license.
