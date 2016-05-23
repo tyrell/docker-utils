@@ -4,6 +4,8 @@ Docker tends to leave quite a bit of resedue in the hard disk. I started noticin
 
 ## Running the script
 
+`wget https://raw.githubusercontent.com/tyrell/docker-utils/master/docker-clean.sh`
+
 `sh docker-clean.sh`
 
 You will see container IDs when the script is cleaning up. 
